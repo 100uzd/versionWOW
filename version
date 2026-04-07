@@ -1,4 +1,22 @@
-1.012.2155
+1.012.2156
 
 UPDATE:
-- reverted from 1.012.2156
+
+UI:
+- security update
+- major UX changes
+- vulnerability mitigation
+- stability fixes
+
+INJECTOR:
+- fixed stability issues
+- fixed rare crashes
+- security fix
+- vulnerability mitigation
+
+MODULE:
+- 90% UNC & SUNC
+- fixed stability issues
+- 100% vulnerability mitigation
+
+this was released for testers.
