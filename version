@@ -1,22 +1,6 @@
-1.012.2156
+1.012.2157
 
 UPDATE:
 
 UI:
-- security update
-- major UX changes
-- vulnerability mitigation
-- stability fixes
-
-INJECTOR:
-- fixed stability issues
-- fixed rare crashes
-- security fix
-- vulnerability mitigation
-
-MODULE:
-- 90% UNC & SUNC
-- fixed stability issues
-- 100% vulnerability mitigation
-
-this was released for testers.
+- Complete UI overhaul
