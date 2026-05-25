@@ -1,6 +1,6 @@
-1.012.2157-Q2
+VERSION: 1.0.2-TESTER
 
-UPDATE:
+UPDATE-LOGS:
 
-UI:
-- fixes
+- yes
+- test
